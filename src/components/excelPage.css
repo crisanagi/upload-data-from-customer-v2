@@ -1,0 +1,26 @@
+.MuiTableSortLabel-root {
+  font-size: 9px !important;
+  font-weight: bold;
+  color: #2b3a42 !important;
+}
+.MuiTypography-h6 {
+  font-size: 9px !important;
+  font-weight: bold !important;
+  color: #2b3a42 !important;
+  font-family: "Noto Sans", "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
+.button,
+html [type="button"],
+.MuiListItem-gutters,
+.MuiTableCell-body,
+.ant-upload-list-item-name,
+input:not([type="range"]),
+.MuiSelect-select.MuiSelect-select {
+  font-size: 9px !important;
+}
+.MuiTableCell-alignLeft,
+.MuiTableCell-alignRight {
+  font-size: 9px !important;
+  color: #00a3e0 !important;
+  font-family: "Noto Sans", "Roboto", "Helvetica", "Arial", sans-serif !important;
+}
